@@ -1,0 +1,5 @@
+.idea
+venv
+config.json
+promptdb.egg-info
+build/*
